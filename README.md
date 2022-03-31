@@ -4,18 +4,18 @@
 https://kimester.github.io/javachip/
 
 # Rescources
+https://stackoverflow.com/questions/10713749/javascript-validation-numbers-only
+
+https://www.w3resource.com/javascript-exercises/javascript-array-exercise-35.php
 
 
 
 
 
-
-## User Story
+## User 
 
 ```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+User will be able to  randomly generate a password that meets certain criteria SO THAT they can have a strong password that provides great security
 ```
 
 ## Acceptance Criteria
