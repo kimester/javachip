@@ -1,5 +1,15 @@
 # javachip: Javascript Password Generator
 
+# Github repository
+https://kimester.github.io/javachip/
+
+# Rescources
+
+
+
+
+
+
 ## User Story
 
 ```
