@@ -12,16 +12,30 @@ https://www.w3resource.com/javascript-exercises/javascript-array-exercise-35.php
 
 
 
-## User 
-
-```
-User will be able to  randomly generate a password that meets certain criteria SO THAT they can have a strong password that provides great security
-```
-
 ## Features
 
 ```
-User will be able to pick from selected citeria that they would like to be included in their password and also how many characters they would prefer 
+User will be able to get a random password generated based on the criteria selected. 
+Criteria includes: uppercase, lowercase, numbers, and symbols
 ```
+  ## Contributing
+  If you'd like to contribute, please contact me via the links in the [Questions](#questions) section below.
+  
+
+  ## Installation
+  
+  To install, ensure that you have node.js installed and then run the commands 'npm init' followed by 'npm i inquirer'
+   npm install
+  
+  ## Questions
+        
+  Feel free to contact me via one of the links below with any questions you may have.
+
+  GitHub: [kimester](https://github.com/kimester)
+
+  Email: [kimester1996@gmail.com](mailto:kimester1996@gmail.com)
+
+
+
 
 
