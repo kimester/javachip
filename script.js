@@ -3,10 +3,13 @@ function generatePassword() {
   var length = parseInt(
     prompt("Please enter the number of charcter for your pasword")
   );
-  if (isNaN(length) || length == null) {
+  if (isNaN(length) || length == null || length <8 || length>128) {
   // alert("invalid input ");
   length = prompt("Please Re- enter the number of charcter for your pasword");
   }
+
+ 
+ 
   console.log(length);
   var confirmNumbers = confirm("Include Numbers ");
   var confirmSymbols = confirm("Include special character ");
